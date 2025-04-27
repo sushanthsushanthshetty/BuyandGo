@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "254174659333",
-    "project_id": "buyngo-63ba0",
-    "storage_bucket": "buyngo-63ba0.firebasestorage.app"
+    "project_number": "971149297377",
+    "project_id": "buyngo-db933",
+    "storage_bucket": "buyngo-db933.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:254174659333:android:3ffacedb7bac6e4d246d6c",
+        "mobilesdk_app_id": "1:971149297377:android:8f744c612304d76bf999a0",
         "android_client_info": {
           "package_name": "com.example.pppp"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBwxOGT_Ajd6nvoDrCgXZXnmuLMa90OMbc"
+          "current_key": "AIzaSyAfWXva8ALLwdDXBF2OXWVTQtTg2wbful8"
         }
       ],
       "services": {
